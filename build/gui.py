@@ -9,7 +9,7 @@ import pydirectinput
 
 # from tkinter import *
 # Explicit imports to satisfy Flake8
-#first push c
+#first push cvvv
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 
 
